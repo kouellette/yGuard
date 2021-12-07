@@ -34,7 +34,7 @@ public interface  ClassConstants
   /**
    * The constant MAJOR_VERSION.
    */
-  public static final int MAJOR_VERSION     = 0x3B;
+  public static final int MAJOR_VERSION     = 0x3D;
 
   /**
    * The constant ACC_PUBLIC.
